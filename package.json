@@ -1,0 +1,13 @@
+{
+    "name": "staff-portal",
+    "version": "1.0.0",
+    "description": "Simple Staff Portal for DevSecOps Project",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "lodash": "4.17.15"
+    }
+  }
+  
